@@ -8,7 +8,7 @@ export const Team = (props) => {
           <h2>Meet the Team</h2>
           <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            dapibus leonec haha
           </p>
         </div>
         <div id="row">
