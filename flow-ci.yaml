@@ -6,4 +6,4 @@ steps:
 
   - name: Run Tests
     commands:
-      - npm test -- --coverage # Or yarn test --coverage
+      - npm test -- --coverage --ci # Or yarn test --coverage
